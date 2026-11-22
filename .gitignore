@@ -1,1 +1,9 @@
+# 编译产物（g++ 输出到源码同目录，见 .vscode/tasks.json）
+*.exe
+*.o
+*.obj
+*.a
+*.out
+
+# 日志
 *.log
